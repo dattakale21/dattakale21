@@ -26,7 +26,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/🌐 Connect with me on www.linkedin.com/in/kaledatta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="🌐 Connect with me on www.linkedin.com/in/kaledatta" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dattakale21&show_icons=true&locale=en&layout=compact" alt="dattakale21" /></p>
+<p><img align="center" width="300px padding="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dattakale21&show_icons=true&locale=en&layout=compact" alt="dattakale21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dattakale21&show_icons=true&locale=en" alt="dattakale21" /></p>
 
