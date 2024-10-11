@@ -1,5 +1,5 @@
 ![logo](https://github.com/dattakale21/dattakale21/blob/8145f235deddc2967d2ec6b4725a5ee679d275f3/logo.jpeg)
-<h1 align="center">Hi 👋, I'm Datta Kale! I'm a passionate third-year computer engineering student</h1>
+<h1 align="center">Hi 👋, I'm Datta Kale! I'm a passionate Final-year computer engineering student</h1>
 <h3 align="center">🚀 Passionate about AI, Robotics, and IoT</h3>
 <img align="right" margin-left="70px" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
